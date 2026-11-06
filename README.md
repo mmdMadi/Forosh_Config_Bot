@@ -1,5 +1,7 @@
 # Forosh Config Bot
 
+English | [فارسی](README.fa.md)
+
 A Telegram bot for selling and managing 3X-UI VPN subscriptions. Users browse plans, place orders, and upload payment proof; admins review orders and provision accounts directly on the panel.
 
 ## Features
