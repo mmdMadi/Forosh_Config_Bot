@@ -1,0 +1,72 @@
+[
+    {
+        "id": "infinity_1m",
+        "name": "Infinity 1 Month",
+        "description": "Unlimited traffic, 30 days",
+        "price": 150000,
+        "price_display": "150,000 Toman",
+        "total_gb": 0,
+        "expiry_days": 30,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "infinity_3m",
+        "name": "Infinity 3 Months",
+        "description": "Unlimited traffic, 90 days",
+        "price": 380000,
+        "price_display": "380,000 Toman",
+        "total_gb": 0,
+        "expiry_days": 90,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "infinity_6m",
+        "name": "Infinity 6 Months",
+        "description": "Unlimited traffic, 180 days",
+        "price": 700000,
+        "price_display": "700,000 Toman",
+        "total_gb": 0,
+        "expiry_days": 180,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "infinity_1y",
+        "name": "Infinity 1 Year",
+        "description": "Unlimited traffic, 365 days",
+        "price": 1200000,
+        "price_display": "1,200,000 Toman",
+        "total_gb": 0,
+        "expiry_days": 365,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "50gb_1m",
+        "name": "50GB 1 Month",
+        "description": "50GB traffic, 30 days",
+        "price": 80000,
+        "price_display": "80,000 Toman",
+        "total_gb": 50,
+        "expiry_days": 30,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "100gb_1m",
+        "name": "100GB 1 Month",
+        "description": "100GB traffic, 30 days",
+        "price": 130000,
+        "price_display": "130,000 Toman",
+        "total_gb": 100,
+        "expiry_days": 30,
+        "protocols": ["vless", "vmess", "trojan"]
+    },
+    {
+        "id": "200gb_1m",
+        "name": "200GB 1 Month",
+        "description": "200GB traffic, 30 days",
+        "price": 200000,
+        "price_display": "200,000 Toman",
+        "total_gb": 200,
+        "expiry_days": 30,
+        "protocols": ["vless", "vmess", "trojan"]
+    }
+]

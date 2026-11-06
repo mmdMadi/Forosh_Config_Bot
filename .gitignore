@@ -1,0 +1,17 @@
+# Local configuration & secrets
+.env
+credentials/
+api-docs/
+panel-backup/
+.mimocode/
+
+# Runtime data
+bot.db
+orders.json.migrated
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
